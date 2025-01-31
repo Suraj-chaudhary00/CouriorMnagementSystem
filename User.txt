@@ -1,0 +1,5 @@
+1003,Janam123,admin,DeliveryStaff,janam@gmail.com
+1002,admin,admin,ManagingStaff,admin@gmail.com
+1009,purnu,purnu,DeliveryStaff,purnima@gmail.com
+1111,test,test,DeliveryStaff,test@gmail.com
+admin,Admin,admin,ManagingStaff,admin12@gmail.com

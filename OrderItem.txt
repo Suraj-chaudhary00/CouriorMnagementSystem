@@ -1,0 +1,8 @@
+1,Pizza123,1001
+3,Laptop,40000
+4,Momo,100
+5,Chowmein,100
+6,Camera,80000
+7,Mobile,35000
+8,Table,20000
+9,Bed,35000
